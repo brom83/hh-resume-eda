@@ -53,7 +53,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/brom83/XXXXXX.git
+git clone https://github.com/brom83/hh-resume-eda.git
 ```
 
 ## Использование
