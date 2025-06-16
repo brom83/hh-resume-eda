@@ -1,4 +1,4 @@
-# <center> Проект: Анализ резюме из HeadHunter</center>
+# <p align="center"> Проект: Анализ резюме из HeadHunter </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg" alt="drawing" width="400px">
