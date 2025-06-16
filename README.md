@@ -1,4 +1,6 @@
-# <center> Проект: Анализ резюме из HeadHunter
+# <center> Проект: Анализ резюме из HeadHunter</center>
+
+<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;"></center>
 
 ## Оглавление
 1. [Описание проекта](#описание-проекта)
